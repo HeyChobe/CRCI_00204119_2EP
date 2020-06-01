@@ -8,7 +8,7 @@ namespace Preparcial.Modelo
 {
     public class Inventario
     {
-        //CORRECCIÓN: Se hicieron públicos estos cinco atributos par poder acceder a ellos
+        //CORRECCIÓN: Se hicieron públicos estos cinco atributos para poder acceder a ellos
         public string idArticulo { get; }
         public string producto { get; }
         public string descripcion { get; }
