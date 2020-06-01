@@ -1,0 +1,102 @@
+C:\Users\walte\source\repos\Preparcial\bin\Debug\Preparcial.exe.config
+C:\Users\walte\source\repos\Preparcial\bin\Debug\Preparcial.exe
+C:\Users\walte\source\repos\Preparcial\bin\Debug\Preparcial.pdb
+C:\Users\walte\source\repos\Preparcial\obj\Debug\Preparcial.csprojAssemblyReference.cache
+C:\Users\walte\source\repos\Preparcial\obj\Debug\Preparcial.FrmLogin.resources
+C:\Users\walte\source\repos\Preparcial\obj\Debug\Preparcial.Properties.Resources.resources
+C:\Users\walte\source\repos\Preparcial\obj\Debug\Preparcial.csproj.GenerateResource.cache
+C:\Users\walte\source\repos\Preparcial\obj\Debug\Preparcial.csproj.CoreCompileInputs.cache
+C:\Users\walte\source\repos\Preparcial\obj\Debug\Preparcial.exe
+C:\Users\walte\source\repos\Preparcial\obj\Debug\Preparcial.pdb
+C:\Users\walte\source\repos\Preparcial\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\walte\source\repos\Preparcial\bin\Debug\Npgsql.dll
+C:\Users\walte\source\repos\Preparcial\bin\Debug\System.Buffers.dll
+C:\Users\walte\source\repos\Preparcial\bin\Debug\System.Memory.dll
+C:\Users\walte\source\repos\Preparcial\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\walte\source\repos\Preparcial\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\walte\source\repos\Preparcial\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\walte\source\repos\Preparcial\bin\Debug\System.Text.Json.dll
+C:\Users\walte\source\repos\Preparcial\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\walte\source\repos\Preparcial\bin\Debug\System.ValueTuple.dll
+C:\Users\walte\source\repos\Preparcial\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\walte\source\repos\Preparcial\bin\Debug\Npgsql.pdb
+C:\Users\walte\source\repos\Preparcial\bin\Debug\Npgsql.xml
+C:\Users\walte\source\repos\Preparcial\bin\Debug\System.Buffers.xml
+C:\Users\walte\source\repos\Preparcial\bin\Debug\System.Memory.xml
+C:\Users\walte\source\repos\Preparcial\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\walte\source\repos\Preparcial\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\walte\source\repos\Preparcial\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\walte\source\repos\Preparcial\bin\Debug\System.Text.Json.xml
+C:\Users\walte\source\repos\Preparcial\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\walte\source\repos\Preparcial\bin\Debug\System.ValueTuple.xml
+C:\Users\walte\source\repos\Preparcial\obj\Debug\Preparcial.csproj.CopyComplete
+C:\Users\walte\source\repos\Preparcial\obj\Debug\Preparcial.Vista.FrmPassword.resources
+C:\Users\walte\source\repos\Preparcial\obj\Debug\Preparcial.Vista.FrmMain.resources
+C:\Users\Walter\Documents\source\repos\Preparcial\bin\Debug\Preparcial.exe.config
+C:\Users\Walter\Documents\source\repos\Preparcial\bin\Debug\Preparcial.exe
+C:\Users\Walter\Documents\source\repos\Preparcial\bin\Debug\Preparcial.pdb
+C:\Users\Walter\Documents\source\repos\Preparcial\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Walter\Documents\source\repos\Preparcial\bin\Debug\Npgsql.dll
+C:\Users\Walter\Documents\source\repos\Preparcial\bin\Debug\System.Buffers.dll
+C:\Users\Walter\Documents\source\repos\Preparcial\bin\Debug\System.Memory.dll
+C:\Users\Walter\Documents\source\repos\Preparcial\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Walter\Documents\source\repos\Preparcial\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Walter\Documents\source\repos\Preparcial\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Walter\Documents\source\repos\Preparcial\bin\Debug\System.Text.Json.dll
+C:\Users\Walter\Documents\source\repos\Preparcial\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Walter\Documents\source\repos\Preparcial\bin\Debug\System.ValueTuple.dll
+C:\Users\Walter\Documents\source\repos\Preparcial\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Walter\Documents\source\repos\Preparcial\bin\Debug\Npgsql.pdb
+C:\Users\Walter\Documents\source\repos\Preparcial\bin\Debug\Npgsql.xml
+C:\Users\Walter\Documents\source\repos\Preparcial\bin\Debug\System.Buffers.xml
+C:\Users\Walter\Documents\source\repos\Preparcial\bin\Debug\System.Memory.xml
+C:\Users\Walter\Documents\source\repos\Preparcial\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Walter\Documents\source\repos\Preparcial\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Walter\Documents\source\repos\Preparcial\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Walter\Documents\source\repos\Preparcial\bin\Debug\System.Text.Json.xml
+C:\Users\Walter\Documents\source\repos\Preparcial\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Walter\Documents\source\repos\Preparcial\bin\Debug\System.ValueTuple.xml
+C:\Users\Walter\Documents\source\repos\Preparcial\obj\Debug\Preparcial.csprojAssemblyReference.cache
+C:\Users\Walter\Documents\source\repos\Preparcial\obj\Debug\Preparcial.FrmLogin.resources
+C:\Users\Walter\Documents\source\repos\Preparcial\obj\Debug\Preparcial.Properties.Resources.resources
+C:\Users\Walter\Documents\source\repos\Preparcial\obj\Debug\Preparcial.Vista.FrmMain.resources
+C:\Users\Walter\Documents\source\repos\Preparcial\obj\Debug\Preparcial.Vista.FrmPassword.resources
+C:\Users\Walter\Documents\source\repos\Preparcial\obj\Debug\Preparcial.csproj.GenerateResource.cache
+C:\Users\Walter\Documents\source\repos\Preparcial\obj\Debug\Preparcial.csproj.CoreCompileInputs.cache
+C:\Users\Walter\Documents\source\repos\Preparcial\obj\Debug\Preparcial.csproj.CopyComplete
+C:\Users\Walter\Documents\source\repos\Preparcial\obj\Debug\Preparcial.exe
+C:\Users\Walter\Documents\source\repos\Preparcial\obj\Debug\Preparcial.pdb
+C:\Users\Ely Montes\Desktop\Preparcial\bin\Debug\Preparcial.exe.config
+C:\Users\Ely Montes\Desktop\Preparcial\bin\Debug\Preparcial.exe
+C:\Users\Ely Montes\Desktop\Preparcial\bin\Debug\Preparcial.pdb
+C:\Users\Ely Montes\Desktop\Preparcial\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ely Montes\Desktop\Preparcial\bin\Debug\Npgsql.dll
+C:\Users\Ely Montes\Desktop\Preparcial\bin\Debug\System.Buffers.dll
+C:\Users\Ely Montes\Desktop\Preparcial\bin\Debug\System.Memory.dll
+C:\Users\Ely Montes\Desktop\Preparcial\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Ely Montes\Desktop\Preparcial\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ely Montes\Desktop\Preparcial\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Ely Montes\Desktop\Preparcial\bin\Debug\System.Text.Json.dll
+C:\Users\Ely Montes\Desktop\Preparcial\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Ely Montes\Desktop\Preparcial\bin\Debug\System.ValueTuple.dll
+C:\Users\Ely Montes\Desktop\Preparcial\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Ely Montes\Desktop\Preparcial\bin\Debug\Npgsql.pdb
+C:\Users\Ely Montes\Desktop\Preparcial\bin\Debug\Npgsql.xml
+C:\Users\Ely Montes\Desktop\Preparcial\bin\Debug\System.Buffers.xml
+C:\Users\Ely Montes\Desktop\Preparcial\bin\Debug\System.Memory.xml
+C:\Users\Ely Montes\Desktop\Preparcial\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Ely Montes\Desktop\Preparcial\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ely Montes\Desktop\Preparcial\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Ely Montes\Desktop\Preparcial\bin\Debug\System.Text.Json.xml
+C:\Users\Ely Montes\Desktop\Preparcial\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Ely Montes\Desktop\Preparcial\bin\Debug\System.ValueTuple.xml
+C:\Users\Ely Montes\Desktop\Preparcial\obj\Debug\Preparcial.csprojAssemblyReference.cache
+C:\Users\Ely Montes\Desktop\Preparcial\obj\Debug\Preparcial.FrmLogin.resources
+C:\Users\Ely Montes\Desktop\Preparcial\obj\Debug\Preparcial.Properties.Resources.resources
+C:\Users\Ely Montes\Desktop\Preparcial\obj\Debug\Preparcial.Vista.FrmMain.resources
+C:\Users\Ely Montes\Desktop\Preparcial\obj\Debug\Preparcial.Vista.FrmPassword.resources
+C:\Users\Ely Montes\Desktop\Preparcial\obj\Debug\Preparcial.csproj.GenerateResource.cache
+C:\Users\Ely Montes\Desktop\Preparcial\obj\Debug\Preparcial.csproj.CoreCompileInputs.cache
+C:\Users\Ely Montes\Desktop\Preparcial\obj\Debug\Preparcial.csproj.CopyComplete
+C:\Users\Ely Montes\Desktop\Preparcial\obj\Debug\Preparcial.exe
+C:\Users\Ely Montes\Desktop\Preparcial\obj\Debug\Preparcial.pdb

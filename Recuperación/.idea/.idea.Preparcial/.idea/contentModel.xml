@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Ely Montes\AppData\Local\JetBrains\Rider2020.1\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Ely Montes\AppData\Local\JetBrains\Rider2020.1\resharper-host\Local\Transient\ReSharperHost\v201\SolutionCaches\_Preparcial.853773393.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Ely Montes\Desktop\Preparcial" t="IncludeRecursive">
+      <e p="App.config" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Controlador" t="Include">
+        <e p="ConexionBD.cs" t="Include" />
+        <e p="ControladorInventario.cs" t="Include" />
+        <e p="ControladorPedido.cs" t="Include" />
+        <e p="ControladorUsuario.cs" t="Include" />
+      </e>
+      <e p="Modelo" t="Include">
+        <e p="Inventario.cs" t="Include" />
+        <e p="Pedido.cs" t="Include" />
+        <e p="Usuario.cs" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="packages.config" t="Include" />
+      <e p="Preparcial.csproj" t="IncludeRecursive" />
+      <e p="Preparcial.sln" t="IncludeFlat" />
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="AssemblyInfo.cs" t="Include" />
+        <e p="Resources.Designer.cs" t="Include" />
+        <e p="Resources.resx" t="Include" />
+        <e p="Settings.Designer.cs" t="Include" />
+        <e p="Settings.settings" t="Include" />
+      </e>
+      <e p="Recursos" t="Include">
+        <e p="UCA.png" t="Include" />
+      </e>
+      <e p="Vista" t="Include">
+        <e p="FrmLogin.cs" t="Include" />
+        <e p="FrmLogin.Designer.cs" t="Include" />
+        <e p="FrmLogin.resx" t="Include" />
+        <e p="FrmMain.cs" t="Include" />
+        <e p="FrmMain.Designer.cs" t="Include" />
+        <e p="FrmMain.resx" t="Include" />
+        <e p="FrmPassword.cs" t="Include" />
+        <e p="FrmPassword.Designer.cs" t="Include" />
+        <e p="FrmPassword.resx" t="Include" />
+      </e>
+    </e>
+  </component>
+</project>
